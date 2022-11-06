@@ -1,0 +1,4 @@
+﻿  Q4.c
+C:\level-up\c lesson-level up\source\repos\test06112022\test_write_code\test_write_code\Q4.c(54,10): warning C4101: 'Loto_grbish': unreferenced local variable
+C:\level-up\c lesson-level up\source\repos\test06112022\test_write_code\test_write_code\Q4.c(271,13): warning C4013: 'Sleep' undefined; assuming extern returning int
+  test_write_code.vcxproj -> C:\level-up\c lesson-level up\source\repos\test06112022\test_write_code\x64\Debug\test_write_code.exe
